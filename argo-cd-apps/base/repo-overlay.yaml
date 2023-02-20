@@ -6,7 +6,7 @@ metadata:
     - resources-finalizer.argocd.argoproj.io
 spec:
   source:
-    repoURL: https://github.com/jduimovich/standalone-hac.git
+    repoURL: https://github.com/ch007m/standalone-hac.git
     targetRevision: upi-0.mystone.lab.upshift.rdu2.redhat.com
 ---
 apiVersion: argoproj.io/v1alpha1
@@ -17,7 +17,7 @@ metadata:
     - resources-finalizer.argocd.argoproj.io
 spec:
   source:
-    repoURL: https://github.com/jduimovich/standalone-hac.git
+    repoURL: https://github.com/ch007m/standalone-hac.git
     targetRevision: upi-0.mystone.lab.upshift.rdu2.redhat.com
 ---
 apiVersion: argoproj.io/v1alpha1
@@ -28,7 +28,7 @@ metadata:
     - resources-finalizer.argocd.argoproj.io
 spec:
   source:
-    repoURL: https://github.com/jduimovich/standalone-hac.git
+    repoURL: https://github.com/ch007m/standalone-hac.git
     targetRevision: upi-0.mystone.lab.upshift.rdu2.redhat.com
 ---
 apiVersion: argoproj.io/v1alpha1
@@ -39,5 +39,5 @@ metadata:
     - resources-finalizer.argocd.argoproj.io
 spec:
   source:
-    repoURL: https://github.com/jduimovich/standalone-hac.git
+    repoURL: https://github.com/ch007m/standalone-hac.git
     targetRevision: upi-0.mystone.lab.upshift.rdu2.redhat.com

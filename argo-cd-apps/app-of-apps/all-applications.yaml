@@ -9,7 +9,7 @@ spec:
   project: default
   source:
     path: argo-cd-apps/overlays/crc
-    repoURL: https://github.com/jduimovich/standalone-hac.git
+    repoURL: https://github.com/ch007m/standalone-hac.git
     targetRevision: upi-0.mystone.lab.upshift.rdu2.redhat.com
   destination:
     namespace: openshift-gitops

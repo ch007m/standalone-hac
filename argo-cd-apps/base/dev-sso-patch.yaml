@@ -8,7 +8,7 @@ spec:
 
   source:
     path: components/dev-sso-patch
-    repoURL: https://github.com/jduimovich/standalone-hac.git
+    repoURL: https://github.com/ch007m/standalone-hac.git
 
   destination:
     namespace: dev-sso
