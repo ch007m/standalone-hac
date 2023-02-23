@@ -25,7 +25,7 @@ spec:
             - /manager
           args:
             - --leader-elect
-          image: quay.io/cloudservices/frontend-operator:a54395e
+          image: quay.io/cloudservices/frontend-operator:171b62d
           name: manager
           securityContext:
             allowPrivilegeEscalation: false
